@@ -1,0 +1,39 @@
+
+pymongo
+httpx
+python-dotenv
+# Web API
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+#Computer Vision / Face Recognition
+opencv-contrib-python
+numpy
+insightface
+onnxruntime
+
+# Environment variables
+python-dotenv
+
+pymongo
+httpx
+python-dotenv
+# Web API
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+#Computer Vision / Face Recognition
+opencv-contrib-python
+numpy
+insightface
+onnxruntime
+
+# Environment variables
+python-dotenv
+
+# Excel attendance reports
+openpyxl
